@@ -98,9 +98,9 @@ The dashboard enables decision-makers to quickly **track performance, identify t
 
 ## 🔹 Author
 👤 **Ariful Islam**  
-📧 Email: [Your Email Here]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-💻 GitHub: [Your GitHub Profile]  
+📧 Email: [arifkhan.nsd14@gmail.com]  
+🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BkEy2E5u2TmGc72P9m72ssA%3D%3D)]  
+💻 GitHub: [[Your GitHub Profile](https://github.com/arifkhan868)]  
 
 ---
 🚀 *This project highlights practical Excel skills for data analysis, KPI reporting, and dashboard creation.*
