@@ -37,7 +37,8 @@ The dataset contains **~10,000+ records** with the following fields:
 
 ## 🔹 Dashboard Preview
 *(Add your dashboard screenshot here)*  
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](   <a href="https://github.com/arifkhan868/Ecommerce-Sales-Analysis-Dashboard/blob/main/Dashboard.PNG">View Dashboard</a>
+)
 
 ---
 
